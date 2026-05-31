@@ -1,27 +1,19 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.5",
   "notes": "Automated release from CI",
-  "pub_date": "2026-05-30T01:09:36.821Z",
+  "pub_date": "2026-05-31T19:38:52.267Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUlV5d293dmtzRldZZW9MaTl4bHVzMEZMeVFhbmZhL0ZKa0RBczFSb1hFem9LM3hpamVrbndHVE1tRzh3elNYU2d2aVBaczBIU3dXTC9sbk1uK2hDdlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTAyNzI2CWZpbGU6cXVpbGxvbi5hcHAudGFyLmd6ClZvZmhsdEpwaVNKWkVGYVg0b2FIVU40b25kSjNSSnBLU1NDWm5XTE5qYzgvUHFSRnVvZ1lROWN1czFJWEJUdDNlOW54a3p1TFV3d3JsTnh1eUxvU0JRPT0K",
-      "url": "https://github.com/quillon-app/app/releases/download/v0.0.3/quillon_aarch64.app.tar.gz"
-    },
-    "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUlV5d293dmtzRldZZW9MaTl4bHVzMEZMeVFhbmZhL0ZKa0RBczFSb1hFem9LM3hpamVrbndHVE1tRzh3elNYU2d2aVBaczBIU3dXTC9sbk1uK2hDdlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTAyNzI2CWZpbGU6cXVpbGxvbi5hcHAudGFyLmd6ClZvZmhsdEpwaVNKWkVGYVg0b2FIVU40b25kSjNSSnBLU1NDWm5XTE5qYzgvUHFSRnVvZ1lROWN1czFJWEJUdDNlOW54a3p1TFV3d3JsTnh1eUxvU0JRPT0K",
-      "url": "https://github.com/quillon-app/app/releases/download/v0.0.3/quillon_aarch64.app.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUlFveUZvUkFsK0NkNjlPWDRLRkNlTFdsOTEwbUVjczZaRVM5dGRzQ2tzV2E5Z1BMdm1HRkVYSWxLdExadnF3MTZRclN2bm4wWTVmRmZCTjE3SjlMd1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTAzMzczCWZpbGU6cXVpbGxvbl8wLjAuM194NjRfZW4tVVMubXNpCkRnUERGVEpuUlRQZzd4OU5EQWJocEtaMGRpc1BsM0Y0VnNYTkQxK214R0xGcnUyOENFbzF4YncxbmxkZWtlU2U5N2hCVUk3VU8wejRiRVdEanlzeENRPT0K",
-      "url": "https://github.com/quillon-app/app/releases/download/v0.0.3/quillon_0.0.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUmNId3pzZEVsZEJBVlkraDJxdXl5K29CRXRYMHJTOUhGQTNKSmhkUURqN1A4V2kyb1VOMVU5S2dkYnk2N3E1ZFppbjJpTUtCVytRR1lGQUU3d3BuUHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjU2MzI3CWZpbGU6cXVpbGxvbl8wLjAuNV94NjRfZW4tVVMubXNpCmJ6T0JTNk5MNlYveHFqT3JaeHNLQ0NwU0VSOHZ5VmtlTmJNamh0MFRDODlySEIxcVRaT2FKbWdsbUpMck04YWdRNHVndDJuZGpxUmYxK1ZOd2hSTERBPT0K",
+      "url": "https://github.com/quillon-app/app/releases/download/v0.0.7/quillon_0.0.5_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUlFveUZvUkFsK0NkNjlPWDRLRkNlTFdsOTEwbUVjczZaRVM5dGRzQ2tzV2E5Z1BMdm1HRkVYSWxLdExadnF3MTZRclN2bm4wWTVmRmZCTjE3SjlMd1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTAzMzczCWZpbGU6cXVpbGxvbl8wLjAuM194NjRfZW4tVVMubXNpCkRnUERGVEpuUlRQZzd4OU5EQWJocEtaMGRpc1BsM0Y0VnNYTkQxK214R0xGcnUyOENFbzF4YncxbmxkZWtlU2U5N2hCVUk3VU8wejRiRVdEanlzeENRPT0K",
-      "url": "https://github.com/quillon-app/app/releases/download/v0.0.3/quillon_0.0.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUmNId3pzZEVsZEJBVlkraDJxdXl5K29CRXRYMHJTOUhGQTNKSmhkUURqN1A4V2kyb1VOMVU5S2dkYnk2N3E1ZFppbjJpTUtCVytRR1lGQUU3d3BuUHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjU2MzI3CWZpbGU6cXVpbGxvbl8wLjAuNV94NjRfZW4tVVMubXNpCmJ6T0JTNk5MNlYveHFqT3JaeHNLQ0NwU0VSOHZ5VmtlTmJNamh0MFRDODlySEIxcVRaT2FKbWdsbUpMck04YWdRNHVndDJuZGpxUmYxK1ZOd2hSTERBPT0K",
+      "url": "https://github.com/quillon-app/app/releases/download/v0.0.7/quillon_0.0.5_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUmJwaG1CVXJtYmJWRFJLSzIwa3hPUFVuUUpYcXBiUTlBU1FXWUhpZTFlL041TlovSXhWUEZnai8zUzE1M0FadFJHdmJLcDJ5ZDBUQWR2VytGcE9XcXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTAzMzczCWZpbGU6cXVpbGxvbl8wLjAuM194NjQtc2V0dXAuZXhlCk5Rb0xlZGFzUzh2MW80SkZoODc5djMxTmZtUnR4cW9pdFpyRjNLakdvd2cvSCt1bHV0a2hsNWVxaXcrL1UwQmw3eHlIaU1VViswYno5VHNIYWxBN0FnPT0K",
-      "url": "https://github.com/quillon-app/app/releases/download/v0.0.3/quillon_0.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTNZVDgwYXlEUlpMTWRPL0pJSlJCQXg3WVhYeW9qRVE5ZVIxR1QwakxGb3ZMWG15RTFQVmVVNy9IZUhUYVJrTUFuNXRZcVh0cEd0MTJtYTY3a1FXY2dSSWhlWW9WS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjU2MzI3CWZpbGU6cXVpbGxvbl8wLjAuNV94NjQtc2V0dXAuZXhlCndLRVFxTFJzdXp2bFNBVnRXakNNTlZTVHQ2NW0vc2V5Z0VMeWF2KzdURE1zbm41QVVabHFKeE8xNVFaL1dTMmU0TXA5bWhHK3ZKT2pvdUowOWE0OERBPT0K",
+      "url": "https://github.com/quillon-app/app/releases/download/v0.0.7/quillon_0.0.5_x64-setup.exe"
     }
   }
 }
